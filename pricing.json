@@ -1,0 +1,5 @@
+{
+  "US": { "currency": "USD", "price": "2.99" },
+  "IN": { "currency": "INR", "price": "199.00" },
+  "SG": { "currency": "SGD", "price": "3.99" }
+}
